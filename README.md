@@ -5,4 +5,4 @@ This is the starting code for Assignment 3.
 
   2. If you would prefer not to work with Git and GitHub... download the
      starting code as a
-     [zip file](https://github.com/Old-Dominion-Univ-CS-Dept/2026-Spring-CS330-Inventory-Iterator/archive/refs/heads/main.zip).
+     [zip file](https://github.com/Old-Dominion-Univ-CS-Dept/2026-Summer-CS330-Inventory-Iterator/archive/refs/heads/main.zip).
