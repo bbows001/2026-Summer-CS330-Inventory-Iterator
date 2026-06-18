@@ -238,7 +238,7 @@ public class Inventory implements Iterable<ItemStack>, Cloneable
         // Add the missing loop
         for (ItemStack item : this.slots) {
             // Indent every single item line by exactly two spaces
-            strBld.append("  ").append(item.toString()).append(System.lineSeparator());
+            strBld.append("  ").append(item.toString().System.lineSeparator());
             
         }
 
